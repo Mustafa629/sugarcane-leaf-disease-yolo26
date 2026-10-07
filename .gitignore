@@ -1,0 +1,23 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Week 8 class material (instructor's files, not part of this project)
+week8_code_YOLO_where_is_it_detection.ipynb
+assets/
+
+# Photos: 1.2 GB, re-downloaded by the notebook from Hugging Face
+sugarcane_project/raw/
+sugarcane_project/split/
+sugarcane_project/field_visit_demo/
+
+# Duplicates and downloads
+sugarcane_project/results_to_keep/
+sugarcane_project/runs/val_test/
+sugarcane_project/runs/sugarcane_cls/weights/last.pt
+yolo26n-cls.pt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+photo,condition,confidence,what it is,action
+00360.jpg,Yellow_Leaf,1.0,virus spread by aphids,do not use as seed cane; refer
+00445.jpg,Yellow_Leaf,1.0,virus spread by aphids,do not use as seed cane; refer
+00903.jpg,Yellow_Leaf,1.0,virus spread by aphids,do not use as seed cane; refer
+01143.jpg,Yellow_Leaf,1.0,virus spread by aphids,do not use as seed cane; refer
+01303.jpg,Yellow_Leaf,1.0,virus spread by aphids,do not use as seed cane; refer
+01559.jpg,Banded_Chlorosis,0.856,model not confident enough,UNSURE: refer photo to agronomist
+01686.jpg,Banded_Chlorosis,1.0,"physiological disorder, usually after cold injury",usually no treatment; record and monitor
+01912.jpg,Banded_Chlorosis,0.997,"physiological disorder, usually after cold injury",usually no treatment; record and monitor
+02083.jpg,Sett_Rot,1.0,fungal disease starting in the planted setts,check germination gaps; refer for seed-treatment advice
+02245.jpg,Sett_Rot,1.0,fungal disease starting in the planted setts,check germination gaps; refer for seed-treatment advice
+02273.jpg,Sett_Rot,1.0,fungal disease starting in the planted setts,check germination gaps; refer for seed-treatment advice
+02343.jpg,Sett_Rot,1.0,fungal disease starting in the planted setts,check germination gaps; refer for seed-treatment advice
+02532.jpg,Sett_Rot,1.0,fungal disease starting in the planted setts,check germination gaps; refer for seed-treatment advice
+02734.jpg,Healthy,1.0,no disease seen,no action
+02740.jpg,Healthy,1.0,no disease seen,no action
+03019.jpg,Healthy,1.0,no disease seen,no action
+03471.jpg,Pokkah_Boeng,1.0,fungal disease,refer to cane development officer
+03765.jpg,Viral_Disease,1.0,virus symptoms such as mosaic,do not use as seed cane; refer
+04339.jpg,Viral_Disease,0.995,virus symptoms such as mosaic,do not use as seed cane; refer
+05150.jpg,Brown_Spot,1.0,fungal leaf spot,record severity; refer if widespread
+05646.jpg,Brown_Spot,1.0,fungal leaf spot,record severity; refer if widespread
+06250.jpg,Brown_Spot,1.0,fungal leaf spot,record severity; refer if widespread
+06357.jpg,Brown_Spot,1.0,fungal leaf spot,record severity; refer if widespread
+06544.jpg,Brown_Spot,1.0,fungal leaf spot,record severity; refer if widespread
